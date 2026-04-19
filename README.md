@@ -15,16 +15,22 @@ A simple and modern Flutter UI for displaying secondary phone numbers with a cle
 
 ---
 
-## 📸 UI Overview
+## 📸 Screenshots
 
-* Displays a list of phone numbers
-* Each card contains:
+Add your app screenshots inside a folder (e.g., `screenshots/`) and link them like below:
 
-  * Phone icon
-  * Phone number
-  * Label (Home / Work)
-  * Sub-label (status/info)
-  * Edit & Delete buttons
+```md
+![UI Preview](screenshots/ui.png)
+```
+
+### Example:
+
+![UI Preview](screenshots/ui.png)
+
+> 📌 Tip:
+>
+> * Save screenshot as `ui.png`
+> * Place it inside a `screenshots` folder in your project root
 
 ---
 
@@ -100,4 +106,6 @@ CSE Student, University of Barishal
 
 ---
 
- 
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
