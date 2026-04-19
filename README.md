@@ -25,13 +25,9 @@ Add your app screenshots inside a folder (e.g., `screenshots/`) and link them li
 
 ### Example:
 
-![UI Preview](screenshots/ui.png)
+![UI Preview](/ui.png)
 
-> 📌 Tip:
->
-> * Save screenshot as `ui.png`
-> * Place it inside a `screenshots` folder in your project root
-
+ 
 ---
 
 ## 🛠️ Technologies Used
