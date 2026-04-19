@@ -17,7 +17,7 @@ A simple and modern Flutter UI for displaying secondary phone numbers with a cle
 
 ## 📸 Screenshots
 
-Add your app screenshots inside a folder (e.g., `screenshots/`) and link them like below:
+Here is the screnshort of the output
 
 ```md
 ![UI Preview](screenshots/ui.png)
@@ -102,6 +102,4 @@ CSE Student, University of Barishal
 
 ---
 
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
+ 
