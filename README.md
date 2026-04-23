@@ -1,6 +1,6 @@
-# Flutter Glassmorphism Student Form
+# Flutter  Student Form
 
-A stylish, modern Student Registration Form built with Flutter. This project features a **Glassmorphism UI** design with a blurred background, custom gradients, and real-time form validation.
+A stylish, modern Student Registration Form built with Flutter. This project features a  design with a blurred background, custom gradients, and real-time form validation.
 
 ## ✨ Features
 * **Glassmorphism Design:** Uses `BackdropFilter` for high-quality blur effects.
