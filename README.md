@@ -21,7 +21,7 @@ A stylish, modern Student Registration Form built with Flutter. This project fea
 3. Navigate to the project folder.
 4. Run `flutter run`.
 
-## 📂 Smart Structure
+## 📂 Project Structure
 ```text
 .
 ├── lib/
